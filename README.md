@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h5 align="left"> Language </h3>
+<h5 align="left"> bogeoung kim </h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/github-#181717?style=flat-square&logo=Blog&logoColor=white"/>
 </p>
 
