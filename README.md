@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp
-  <a href="https://bbooo.tistory.com/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Blog&logoColor=white"/>
+  <a href="https://bbooo.tistory.com/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Blog&logoColor=white"/>
 </p>
 
