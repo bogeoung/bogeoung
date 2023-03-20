@@ -13,7 +13,7 @@
 <p>
 [intern] 
 <a href="https://www.etri.re.kr/eng/sub6/sub6_0101.etri?departCode=10">ETRI Artificial Intelligence Computing Research Laboratory</a>
-  (2022.01 ~ 2022.02, 2022.07 ~ 2022.08, 2023.01 ~ current)  
+  (2022.01 ~ 2022.02, 2022.07 ~ 2022.08, 2023.01 ~ 2023.02)  
 </p>
  
 
